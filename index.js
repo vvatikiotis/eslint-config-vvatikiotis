@@ -13,9 +13,11 @@ const rules = {
   'eol-last': 'warn',
   'arrow-spacing': 'warn',
   'no-trailing-spaces': 'warn',
+  'no-multiple-empty-lines': 'warn',
   'jsx-quotes': ['warn', 'prefer-single'],
   'react/jsx-key': 'warn',
   'react/self-closing-comp': 'warn',
+  'react/prop-types': 'warn',
 }
 
 module.exports = {
