@@ -1,6 +1,7 @@
-# Description
+# My eslint rules
 
-My eslint rules.
+[![dependencies](https://david-dm.org/vvatikiotis/eslint-config-vvatikiotis.svg)](https://david-dm.org/vvatikiotis/eslint-config-vvatikiotis)
+[![devDependency Status](https://david-dm.org/vvatikiotis/eslint-config-vvatikiotis/dev-status.svg)](https://david-dm.org/vvatikiotis/eslint-config-vvatikiotis#info=devDependencies)
 
 To create your eslint config package:
 1. Create your eslint-config project just like this one.
